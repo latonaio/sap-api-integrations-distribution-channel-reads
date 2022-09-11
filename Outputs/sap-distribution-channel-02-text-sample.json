@@ -1,0 +1,23 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-distribution-channel-reads/SAP_API_Caller/caller.go#L67",
+	"function": "sap-api-integrations-distribution-channel-reads/SAP_API_Caller.(*SAPAPICaller).DistributionChannel",
+	"level": "INFO",
+	"message": [
+		{
+			"DistributionChannel": "01",
+			"Language": "EN",
+			"DistributionChannelName": "Distribtn Channel 01"
+		},
+		{
+			"DistributionChannel": "01",
+			"Language": "DE",
+			"DistributionChannelName": "Vertriebsweg 01"
+		},
+		{
+			"DistributionChannel": "01",
+			"Language": "JA",
+			"DistributionChannelName": "流通チャネル 01"
+		}
+	],
+	"time": "2022-09-11T23:54:27+09:00"
+}

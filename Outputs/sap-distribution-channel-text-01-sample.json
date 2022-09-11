@@ -1,0 +1,13 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-distribution-channel-reads/SAP_API_Caller/caller.go#L109",
+	"function": "sap-api-integrations-distribution-channel-reads/SAP_API_Caller.(*SAPAPICaller).Text",
+	"level": "INFO",
+	"message": [
+		{
+			"DistributionChannel": "01",
+			"Language": "EN",
+			"DistributionChannelName": "Distribtn Channel 01"
+		}
+	],
+	"time": "2022-09-12T00:04:25+09:00"
+}
